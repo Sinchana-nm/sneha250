@@ -1,6 +1,6 @@
 #SWAPPING THE NUMBERS
 x=10
-y=3
+y=30
 temp=x
 x=y
 y=temp
