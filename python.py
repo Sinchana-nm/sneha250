@@ -1,6 +1,6 @@
 #SWAPPING THE NUMBERS
 
-x=5000
+x=6000
 y=3000
 temp=x
 x=y
